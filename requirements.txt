@@ -1,0 +1,16 @@
+pandas
+matplotlib.pyplot
+plotly.express
+seaborn
+category_encoders 
+warnings
+dash
+tensorflow
+sklearn
+joblib
+Sequential
+Dense
+cross_val_score
+StratifiedKFold
+KerasClassifier
+skim
